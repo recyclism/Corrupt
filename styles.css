@@ -1,0 +1,32 @@
+body,table,td,tr,div,p,pre,h1,h2,h3,h4,ul {font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;}
+body,td,div,p,pre,ul {font-size: 12px;color: #000000;}
+/*BODY {background-color:#FFFFFF;}*/
+BODY { background-image: url("pattern.gif") }
+
+h1 {font-size: 12px;}
+h2 {font-size: 12px;}
+h3 {font-size: 12px;}
+
+.menue {font-family: "Trebuchet MS", Arial, Helvetica, sans-serif; font-size: 12px;color: #0099FF;}
+.lesen {font-size: 12px; color: #000000;}
+.head {font-size: 12px; letter-spacing : 2px; color: #ffffff;}
+.mhead {font-size: 12px; letter-spacing : 2px; color: #ffffff;}
+
+.invert {color: #000000;background-color:#E0E2D4; font-weight : bold; letter-spacing : 2px; font-size: 12px}
+
+a {font-size: 12px; text-decoration: none; font-weight : bold;}
+
+a:link { text-decoration: none; color: #000000; }
+a:visited { text-decoration: none; color: #000000; }
+a:hover { text-decoration: none; color: #0099FF; }
+a:active { text-decoration: none; color: #FF0000; }
+
+
+.sb {scrollbar-3dlight-color:#666666;
+           scrollbar-arrow-color:#cc3300;
+           scrollbar-base-color:#ffffff;
+           scrollbar-darkshadow-color:#6666666;
+           scrollbar-face-color:#ffffff;
+           scrollbar-highlight-color:#ffffff;
+           scrollbar-shadow-color:}
+
