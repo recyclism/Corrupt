@@ -1,4 +1,4 @@
-Corrupt by Corrupt by Recyclism is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Based on a work at www.recyclism.com.
+Corrupt by Corrupt by Recyclism is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Based on a work at http://corrupt.recyclism.com/
 
 I DO NOT OFFER SUPPORT TO SET UP CORRUPT on your server. I leave up to you to set up (it's nothing complicated), simply upload the corrupt folder and allow the image folder to be written. 
 
